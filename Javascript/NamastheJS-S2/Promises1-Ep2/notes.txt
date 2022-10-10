@@ -1,0 +1,11 @@
+Promises -
+-----------
+1.Promises are used to handle async operations in Javascript 
+
+
+
+Example -
+=========
+
+1.Before Promises ->
+2.After Promises  ->
