@@ -1,0 +1,8 @@
+React is a JS library
+Community in react is huge 
+React is faster in 
+
+Unidirectional - parent to child 
+Components in React are reusable
+
+
